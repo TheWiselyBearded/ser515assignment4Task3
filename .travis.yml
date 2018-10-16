@@ -5,5 +5,4 @@ jdk:
   - oraclejdk8
 
 script:
-  gradle assemble
-  gradle check
+  gradle build
